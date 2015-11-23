@@ -1,0 +1,32 @@
+{
+  "name": "g",
+  "version": "0.0.1",
+  "description": "A native gmail client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulot/g.git"
+  },
+  "keywords": [
+    "gmail",
+    "mail",
+    "app"
+  ],
+  "author": "Paulo Tanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulot/g/issues"
+  },
+  "homepage": "https://github.com/paulot/g#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "babel-core": "^6.2.1",
+    "electron-prebuilt": "^0.35.1"
+  }
+}
