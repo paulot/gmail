@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/electron .",
+    "build": "electron-packager . Gmail --platform=darwin --arch=x64 --version=0.35.1 --icon=lib/media/gmail.png",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
