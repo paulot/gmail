@@ -28,10 +28,15 @@
   /* display: none; */
 }
 
+/* google hangouts popout */
+.o8qlBb.PJ .gGnOIc.x2.qp.DI.QmCEdd {
+  display: none;
+}
+
 /* google/company logo */
-.gb_tb a.gb_lc.gb_vb {
+.gb_tb a.gb_qc.gb_vb {
   /* display: none; */
-  margin-top: 6px;
+  margin-top: 10px;
 }
 
 /* window with emails */
