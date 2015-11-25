@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulot/g.git"
+    "url": "git+https://github.com/paulot/gmail.git"
   },
   "keywords": [
     "gmail",
@@ -21,9 +21,9 @@
   "author": "Paulo Tanaka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/paulot/g/issues"
+    "url": "https://github.com/paulot/gmail/issues"
   },
-  "homepage": "https://github.com/paulot/g#readme",
+  "homepage": "https://github.com/paulot/gmail#readme",
   "dependencies": {
     "bluebird": "^3.0.5",
     "jquery": "^2.1.4",
