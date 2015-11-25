@@ -4,13 +4,19 @@
 
 <br>
 [![](lib/media/screenshot.png)](https://github.com/paulot/gmail/releases/latest)
+[![](lib/media/dock.png)](https://github.com/paulot/gmail/releases/latest)
 
 ## Install
--- Installation intructions to come
+Check the current list of [releases](https://github.com/paulot/gmail/releases/latest) for prebuilt binaries.
+
+#### Running from source
+- Clone the repo: `git clone https://github.com/paulot/gmail.git`
+- Install dependencies: `npm install`
+- Run: `npm start`
 
 ## Development
 Built with [Electron JS](http://electron.atom.io).
 
-### Commands
+#### Commands
 - Init: `$ npm install`
 - Run: `$ npm start`
