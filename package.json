@@ -4,8 +4,9 @@
   "version": "0.0.1",
   "description": "A native gmail client.",
   "main": "index.js",
+  "bin": { "gmail": "./launch.sh" },
   "scripts": {
-    "start": "./node_modules/.bin/electron .",
+    "start": "./launch.sh",
     "build": "electron-packager . Gmail --platform=darwin --arch=x64 --version=0.35.1 --icon=lib/media/gmail.png",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
