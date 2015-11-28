@@ -9,6 +9,12 @@
 ## Install
 Check the current list of [releases](https://github.com/paulot/gmail/releases/latest) for prebuilt binaries.
 
+#### Mac OS
+Simply drag the .app file located in the archive to your dock
+
+#### Windows/Linux
+Still working on a binary. There are still a few issues with the menu that need to be sorted out in Linux. 
+
 #### Running from source
 - Clone the repo: `git clone https://github.com/paulot/gmail.git`
 - Install dependencies: `npm install`
